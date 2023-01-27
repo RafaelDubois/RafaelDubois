@@ -8,7 +8,7 @@
 
 - 📫 Comment me contacter **rafaeldubois974@gmail.com**
 
-- 📄 Mon éxperience [https://www.linkedin.com/in/rafaël-dubois/](https://www.linkedin.com/in/rafaël-dubois/)
+- 📄 Mon expérience [https://www.linkedin.com/in/rafaël-dubois/](https://www.linkedin.com/in/rafaël-dubois/)
 <br>
 <h3 align="left">Connect with me:</h3>
 <br>
@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeldubois&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rafaeldubois" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaeldubois&show_icons=true&theme=tokyonight&locale=en" alt="rafaeldubois" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rafaeldubois&show_icons=true&theme=tokyonight&locale=en" alt="rafaeldubois" /></p>
 
 ![Snake animation](https://github.com/RafaelDubois/RafaelDubois/blob/output/github-contribution-grid-snake.svg)

@@ -20,10 +20,11 @@
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeldubois&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rafaeldubois" /></p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaeldubois" alt="rafaeldubois" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaeldubois&show_icons=true&theme=tokyonight&locale=en" alt="rafaeldubois" /></p>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaeldubois" alt="rafaeldubois" /></a> </p>
+
 
 
 

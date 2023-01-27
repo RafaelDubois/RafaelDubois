@@ -24,5 +24,6 @@
 
 
 ![Snake animation](https://github.com/RafaelDubois/RafaelDubois/blob/output/github-contribution-grid-snake.svg)
-
+<h1 align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient)
+</h1>

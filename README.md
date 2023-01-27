@@ -24,3 +24,5 @@
 
 
 ![Snake animation](https://github.com/RafaelDubois/RafaelDubois/blob/output/github-contribution-grid-snake.svg)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient)

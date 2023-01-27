@@ -23,6 +23,6 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rafaeldubois&show_icons=true&theme=tokyonight&locale=en" alt="rafaeldubois" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaeldubois" alt="rafaeldubois" /></a> </p>
+
 
 ![Snake animation](https://github.com/RafaelDubois/RafaelDubois/blob/output/github-contribution-grid-snake.svg)

@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning **Three.js Svelte.js VUE.js Laravel**
 
-- 👨‍💻 All my projects are available at [https://rafael-d-portfolio.vercel.app/fr-FR](https://rafael-d-portfolio.vercel.app/fr-FR) / [https://github.com/rafaeldubois]([https://github.com/rafaeldubois](https://github.com/RafaelDubois?tab=repositories))
+- 👨‍💻 All my projects are available at [https://rafael-d-portfolio.vercel.app/fr-FR](https://rafael-d-portfolio.vercel.app/fr-FR) / [https://github.com/rafaeldubois](https://github.com/RafaelDubois?tab=repositories)
 
 - 📫 How to contact me **rafaeldubois974@gmail.com / https://linkedin.com/in/rafaël-dubois**
 
